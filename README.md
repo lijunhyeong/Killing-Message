@@ -1,6 +1,7 @@
 # 킬링메시지: 나만의 명언, 모두의 동기부여
 ## 1. Intro
-![killme](https://user-images.githubusercontent.com/72978589/165931870-ed88ecfe-9dc5-4ed1-9861-d42925533235.png)  
+<img src="https://user-images.githubusercontent.com/72978589/166099312-6faa4da1-1e59-430b-90de-58b36c9a09db.png" width="45%" height="25">  
+
 * #### 배포 링크: https://play.google.com/store/apps/details?id=org.techtown.killme  
 
 ## 2. 앱 소개
