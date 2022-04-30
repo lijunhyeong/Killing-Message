@@ -19,7 +19,7 @@
 ##### :balloon: 별 모양을 클릭하면 보관함에 저장됨
 > ###### 보관함 내에 :heavy_plus_sign: 버튼으로 자신만의 명 등록 기능
 > ###### 선정한 명언들만을 바탕화면 위젯, 푸쉬 알림으로 설정 기능
-##### :balloon: 자신의 명언을 제보할 수 있으며, 좋은 명언은 '이달의 명언'으로 선정되어 30일간 상단에 노출(공식 인스타그램에도 업로드([@killme_quote](https://www.instagram.com/killme_quote/))
+##### :balloon: 자신의 명언을 제보할 수 있으며, 좋은 명언은 '이달의 명언'으로 선정되어 30일간 상단에 노출(공식 인스타그램에도 업로드 [@killme_quote](https://www.instagram.com/killme_quote/))
 ##### :balloon: 오늘의 운세
 ##### :balloon: 시스템 설정에 따른 다크모드 & 화이트모드 지원
 ## 4. 화면 소개
