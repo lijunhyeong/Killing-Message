@@ -2,7 +2,7 @@
 ## 1. Intro
 <img src="https://user-images.githubusercontent.com/72978589/166099504-6e02dfb5-7909-4a84-a3e1-1efdd3125ca5.png" width="45%" height="25%">  
 
-* #### 배포 링크: https://play.google.com/store/apps/details?id=org.techtown.killme  
+### [플레이스토어 바로가기](https://play.google.com/store/apps/details?id=org.techtown.killme)  
 
 ## 2. 앱 소개
 * ##### 사람들은 동기부여는 오래가지 않는다고 말한다. 목욕도 마찬가지다. 그래서 매일 하라고 하는 것이다. -지그 지글러-  
